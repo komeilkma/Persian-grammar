@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("backgroundPage notified that Popup.tsx has mounted."),window.alert("Hello world!")})();
