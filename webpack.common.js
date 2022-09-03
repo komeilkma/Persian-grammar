@@ -3,7 +3,7 @@ const path = require("path");
 module.exports = {
     entry: {
         backgroundPage: path.join(__dirname, "src/backgroundPage.ts"),
-        test: path.join(__dirname, "src/new.ts"),
+        main_canvas: path.join(__dirname, "src/main_canvas.ts"),
         popup: path.join(__dirname, "src/popup/index.tsx"),
     },
     output: {
