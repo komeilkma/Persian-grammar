@@ -4,6 +4,9 @@ module.exports = {
     entry: {
         backgroundPage: path.join(__dirname, "src/backgroundPage.ts"),
         main_canvas: path.join(__dirname, "src/main_canvas.ts"),
+        PG_main: path.join(__dirname, "src/PG_main.ts"),
+        PG_styles: path.join(__dirname, "src/PG_styles.ts"),
+        PG_check: path.join(__dirname, "src/PG_check.ts"),
         popup: path.join(__dirname, "src/popup/index.tsx"),
     },
     output: {
