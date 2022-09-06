@@ -7,6 +7,11 @@
     color:inherit !important;
     font-size:inherit !important
 }
+
+.DraftEditor-root {
+    overflow: hidden !important;
+}
+
 *[data-pgm][data-pgm_editor] .gr-alert.gr_spell,body[data-pgm_id][data-pgm_editor] .gr-alert.gr_spell,*[data-pgm][data-pgm_editor] .gr-alert.gr_pgm,body[data-pgm_id][data-pgm_editor] .gr-alert.gr_pgm{
     border-bottom:2px solid transparent;
     background-repeat:no-repeat;
