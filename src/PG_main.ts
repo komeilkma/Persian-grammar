@@ -42,6 +42,7 @@ export interface OptionalOptions {
 	document.body.appendChild(element)
   
 	return element
+	
   }
   
   function destroyElement(element: HTMLElement): void {
@@ -58,6 +59,8 @@ export interface OptionalOptions {
 	  return cache[cacheKey]
 	}
   
+	
+	forward test 
 	// prepare options
 	options.font = options.font || 'Times'
 	options.fontSize = options.fontSize || '16px'
