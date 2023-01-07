@@ -1,5 +1,6 @@
 # Persian-Grammer
 An extension for correcting spelling and writing mistakes in Persian, which was being developed for web browsers, and the development process of this extension has been stopped at the moment.
+This plugin detects wrong words and phrases and suggests the correct phrase to the user
 
 ## How does it work
 
