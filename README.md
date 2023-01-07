@@ -3,6 +3,10 @@ An extension for correcting spelling and writing mistakes in Persian, which was 
 
 ## How does it work
 
+
+https://user-images.githubusercontent.com/7768795/211174168-c5035539-0386-471c-9203-4df9e9b3cec5.mp4
+
+
 **Start**
 
 Run the following commands to install dependencies
